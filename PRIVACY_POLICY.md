@@ -4,12 +4,6 @@
 
 *Last updated: 15-10-26*
 
-This is the content that should go on the web page linked from the app's
-Settings → Privacy Policy button and from the Google Play store listing.
-Host this text on any public URL (GitHub Pages, your own site, a free
-hosting service like Netlify/Vercel, or a Google Sites page). The URL must
-be publicly accessible without login.
-
 ## Privacy Policy for Slide Puzzle
 
 This privacy policy describes how **Slide Puzzle** ("the app", "we") handles
