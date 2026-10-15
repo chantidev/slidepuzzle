@@ -1,16 +1,14 @@
 # Privacy Policy — Slide Puzzle
 
-*Effective date: [FECHA DE PUBLICACIÓN]*
+*Effective date: 15-10-2026.*
 
-*Last updated: [FECHA]*
+*Last updated: 15-10-26*
 
 This is the content that should go on the web page linked from the app's
 Settings → Privacy Policy button and from the Google Play store listing.
 Host this text on any public URL (GitHub Pages, your own site, a free
 hosting service like Netlify/Vercel, or a Google Sites page). The URL must
 be publicly accessible without login.
-
----
 
 ## Privacy Policy for Slide Puzzle
 
@@ -81,13 +79,13 @@ this page with an updated "Last updated" date.
 
 If you have questions about this privacy policy, contact us at:
 
-**[TU EMAIL DE CONTACTO]**
+**santiagoinfante2010@gmail.com**
 
 ---
 
 ## Política de Privacidad — Slide Puzzle (Español)
 
-*Fecha de entrada en vigor: [FECHA DE PUBLICACIÓN]*
+*Fecha de entrada en vigor: 18-10-2026*
 
 ### 1. Datos que recopilamos
 
@@ -135,20 +133,4 @@ Cualquier cambio se publicará en esta misma página con la fecha actualizada.
 
 ### 7. Contacto
 
-**[TU EMAIL DE CONTACTO]**
-
----
-
-## Checklist antes de publicar la página
-
-- [ ] Reemplazar `[FECHA DE PUBLICACIÓN]` / `[FECHA]` con la fecha real.
-- [ ] Reemplazar `[TU EMAIL DE CONTACTO]` con un email real (puede ser el
-      mismo que uses en la ficha de Play Store).
-- [ ] Publicar el contenido en una URL pública (GitHub Pages, Google Sites,
-      Netlify, etc.).
-- [ ] Poner esa URL en `www/index.html` en la constante
-      `PRIVACY_POLICY_URL`.
-- [ ] Poner la misma URL en la ficha de Play Console → Política de
-      privacidad, y en el formulario de Data Safety declarar que AdMob
-      recopila: IDs de dispositivo, datos de anuncios y diagnósticos
-      (compartidos con Google, cifrados en tránsito, no vendidos).
+**santiagoinfante2010@gmail.com**
