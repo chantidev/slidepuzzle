@@ -4,7 +4,7 @@
 
 *Last updated: 15-10-26*
 
-## Privacy Policy for Slide Puzzle
+## Privacy Policy for Slide Puzzle (English)
 
 This privacy policy describes how **Slide Puzzle** ("the app", "we") handles
 information when you use our mobile application.
