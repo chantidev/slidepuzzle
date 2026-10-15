@@ -1,4 +1,4 @@
-# Privacy Policy — Slide Puzzle
+# Privacy Policy - Slide Puzzle
 
 *Effective date: 15-10-2026.*
 
@@ -20,7 +20,7 @@ information when you use our mobile application.
   private storage. This data never leaves your device and is deleted if
   you uninstall the app.
 
-### 2. Third-party services — Google AdMob
+### 2. Third-party services - Google AdMob
 
 The app displays advertisements provided by **Google AdMob**. To serve,
 measure, and improve ads, Google may automatically collect and process:
@@ -77,7 +77,7 @@ If you have questions about this privacy policy, contact us at:
 
 ---
 
-## Política de Privacidad — Slide Puzzle (Español)
+## Política de privacidad de Slide Puzzle (Español)
 
 *Fecha de entrada en vigor: 18-10-2026*
 
@@ -92,7 +92,7 @@ If you have questions about this privacy policy, contact us at:
   Estos datos nunca salen de tu dispositivo y se eliminan si desinstalas
   la aplicación.
 
-### 2. Servicios de terceros — Google AdMob
+### 2. Servicios de terceros - Google AdMob
 
 La aplicación muestra anuncios de **Google AdMob**. Para servir y medir
 anuncios, Google puede recopilar automáticamente:
@@ -103,7 +103,7 @@ anuncios, Google puede recopilar automáticamente:
 - **Información del dispositivo y de la app** (modelo, versión de SO, fallos)
 
 Puedes desactivar la publicidad personalizada en:
-**Ajustes → Google → Anuncios → Eliminar ID de publicidad**.
+**Ajustes -> Google -> Anuncios -> Eliminar ID de publicidad**.
 
 ### 3. Privacidad infantil
 
