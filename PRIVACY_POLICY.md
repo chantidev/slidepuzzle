@@ -37,7 +37,7 @@ This data is processed by Google under its own policies:
 - AdMob data usage: https://support.google.com/admob/answer/6128543
 
 You can opt out of personalized advertising in your device settings:
-**Settings → Google → Ads → Delete advertising ID** (or "Opt out of Ads
+**Settings -> Google -> Ads -> Delete advertising ID** (or "Opt out of Ads
 Personalization"). You will still see ads, but they will not be based on
 your interests.
 
@@ -52,9 +52,9 @@ Ad content is served by Google AdMob in accordance with its policies.
 
 The app requests only:
 
-- **Internet access** — required to load advertisements.
-- **Network state** — to check connectivity before loading ads.
-- **Vibration** — optional haptic feedback (can be disabled in Settings).
+- **Internet access** - required to load advertisements.
+- **Network state** - to check connectivity before loading ads.
+- **Vibration** - optional haptic feedback (can be disabled in Settings).
 
 No permission is used to collect personal information.
 
@@ -112,9 +112,9 @@ almacena datos de ningún usuario en servidores.
 
 ### 4. Permisos
 
-- **Internet** — necesario para cargar anuncios.
-- **Estado de red** — para comprobar la conectividad antes de cargar anuncios.
-- **Vibración** — retroalimentación háptica opcional (desactivable en Ajustes).
+- **Internet** - necesario para cargar anuncios.
+- **Estado de red** - para comprobar la conectividad antes de cargar anuncios.
+- **Vibración** - retroalimentación háptica opcional (desactivable en Ajustes).
 
 ### 5. Conservación y eliminación de datos
 
